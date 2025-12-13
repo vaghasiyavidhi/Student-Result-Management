@@ -6,8 +6,5 @@
   },
   "routes": [
     { "src": "/(.*)", "dest": "/api/index.php" }
-  ],
-  "build" : {
-    "outputDirectory": "dist"
-  }
+  ]
 }
